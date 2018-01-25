@@ -4,6 +4,18 @@ img {
     height: auto;
 }
 
+.bio-pic {
+    max-width: auto;
+    max-height: 110%;
+    display: block;
+}
+
+/* .star_wars {
+    display: block;
+    height: auto;
+    width: auto;
+} */
+
 body {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/cheap_diagonal_fabric.png");
 }
